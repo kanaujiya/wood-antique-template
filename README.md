@@ -1,1 +1,1 @@
-# Html template
+# HTML CSS responsive template 
